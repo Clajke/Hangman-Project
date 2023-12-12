@@ -13,7 +13,7 @@ def check_guess(guess, word, guessed_letters):
         print(f"Sorry, {guess} is not in the word. Try again!")
         guessed_letters.append(guess)
 
-def ask_for_input(word):
+def play_game(word):
     guessed_letters = []
     while True:
         display_word = ""
@@ -44,7 +44,7 @@ if __name__ == "__main__":
     word_list = ["apple", "orange", "banana", "mango", "blueberry"] 
     word = random.choice(word_list)
     print("Welcome to the word guessing game!")
-    ask_for_input(word)
+    play_game(word)
 
     
 
