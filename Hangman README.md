@@ -22,10 +22,11 @@ Table of Contents
    Python is required for this to run, this could be achieve by downloading VSCode as well as the Python extension. This can then be run through the VSCode programme. 
 
 4. Usage instructions
-   Please alter the variables in word_list to have the words of your choice. Please run the script and guess the answer and most importantly have fun!
+   Please alter the variables in word_list to have the words of your choice which is located in the most updated project of Milestone_5. Please run the script and guess the answer and most importantly have fun!
 
 5. File structure
-   There are files of milestone_2, milestone_3, milestone_4 and milestone_5 which show different stages and variations of the hangman game. The ReadMe is also here to describe the game. 
+   There are files of milestone_2, milestone_3, milestone_4 and milestone_5 which show different stages and variations of the hangman game. The ReadMe is also here to describe the game.
+   
    
 
   
